@@ -17,6 +17,6 @@ A simple mod that adds handcuffs, keys, and more.
 * Updated recipes to be a bit more fair
 <br>
 
-> Requires [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore)
+> Requires [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore) <br>
 > Requires [Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco)
 
