@@ -14,7 +14,9 @@ A simple mod that adds handcuffs, keys, and more.
 * Seizing restrained players' items.
 * Unbreakable cell doors that can be locked with special keys.
 * Unbreakable reinforced blocks to use to build impenetrable prisons.
-
+* Updated recipes to be a bit more fair
 <br>
 
 > Requires [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore)
+> Requires [Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco)
+

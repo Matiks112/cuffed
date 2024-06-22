@@ -5,10 +5,10 @@
   ],
   "key": {
     "N": {
-      "item": "minecraft:iron_ingot"
+      "item": "minecraft:netherite_ingot"
     },
     "I": {
-      "item": "minecraft:iron_nugget"
+      "item": "createdeco:netherite_nugget"
     }
   },
   "result": {
